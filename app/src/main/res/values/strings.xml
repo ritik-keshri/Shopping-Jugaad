@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Shopping Jugaad</string>
+    <string name="email_id">Email id</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="new_account">Don\'t have an Account?</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="already_having_account">Already Having Account</string>
+    <string name="register">Register</string>
+    <string name="title_activity_admin">Admin</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="speaker_category">Speaker</string>
+    <string name="shoes_category">Shoes</string>
+    <string name="watch_category">Watch</string>
+    <string name="cloth_category">Cloth</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="subtract_quantity_button">-</string>
+    <string name="stock_unit_name_label">Name</string>
+    <string name="default_zero">0</string>
+    <string name="stock_quantity_label">Stock Quantity</string>
+    <string name="add_quantity_button">+</string>
+    <string name="stock_price_label">Price</string>
+    <string name="Category">Category</string>
+    <string name="stock_detail_label">Details</string>
+    <string name="about_us">This system provides an easy solution for customers to buy the product without going to the shop and also for the shop owner to sell the product. This proposed system can be used by any naïve users and it does not require any educational level,experience or technical expertise in computer field but it will be of good use</string>
+    <string name="title_activity_product_detail">product_detail</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="logout">Logout</string>
+    <string name="empty_view_subtitle_text">Add a item</string>
+    -->
+</resources>

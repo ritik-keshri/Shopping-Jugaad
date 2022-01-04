@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "710683446090",
+    "project_id": "shopping-jugaad",
+    "storage_bucket": "shopping-jugaad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710683446090:android:6e79efdba86d4c79c60fb3",
+        "android_client_info": {
+          "package_name": "com.example.shoppingjugaad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710683446090-4j63cjffe96ebhtp2il0tal7p8mls0bu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shoppingjugaad",
+            "certificate_hash": "a283b92f1c8fa119fe74802e4b0304b57b8acbde"
+          }
+        },
+        {
+          "client_id": "710683446090-09bgrhrhos5hdu7g5bnbhtokb56sfv90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr9praIXQwsap0EYT3z1jMEIIcfr_8MFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710683446090-09bgrhrhos5hdu7g5bnbhtokb56sfv90.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
